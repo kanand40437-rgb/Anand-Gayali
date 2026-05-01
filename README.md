@@ -1,2 +1,2 @@
 # Anand-Gayali
-This is my frist gt repository
+This is my frist git repository
